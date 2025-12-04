@@ -135,7 +135,7 @@ const courses = [
     image: 'img/cards/marketing/1.jpg',
   },
   {
-    id: 16,
+    id: 17,
     category: 'hr',
     tagLabel: 'HR & Recruiting',
     title: 'test Hr',
@@ -144,7 +144,7 @@ const courses = [
     image: 'img/cards/hr/3.jpg',
   },
   {
-    id: 17,
+    id: 18,
     category: 'hr',
     tagLabel: 'HR & Recruiting',
     title: 'test Hr 2',
